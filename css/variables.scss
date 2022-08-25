@@ -1,7 +1,0 @@
-@mixin sizes($width, $height) {
-  height: $height;
-  width: $width;
-}
-.box {
-  @include sizes(500%, 50%);
-}
